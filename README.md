@@ -18,8 +18,13 @@
 
 ## Skillset :
 
-![Tux, the Linux mascot](https://img.icons8.com/color/48/40C057/html-5--v1.png)   ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/css3.png) ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/javascript.png) 
 
-    HTML, CSS, Java Script
+    C, C++, Java
+    Python, AI/ML
+    HTML, CSS, Bootstrap, Java Script 
+    RDBMS, DBMS, SQL (MySQL)
+    MongoDB, ExpressJs, ReactJs, NodeJs
+
+    
 
 
